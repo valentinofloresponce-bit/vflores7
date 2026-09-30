@@ -16,4 +16,18 @@ imagen.jpg → valor
 <details>
 <summary>Click to expand</summary>
 </details>
-hola
+
+Contenido oculto
+
+</details>
+# Heading
+
+## Heading 2
+
+**bold**
+
+*italic*
+
+[link](https://example.com)
+
+![image](image.png)
