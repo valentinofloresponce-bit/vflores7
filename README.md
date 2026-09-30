@@ -16,3 +16,4 @@ imagen.jpg → valor
 <details>
 <summary>Click to expand</summary>
 </details>
+hola
